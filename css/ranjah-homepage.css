@@ -1,0 +1,24 @@
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 0px;
+	margin-top:0px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+#firstdiv{
+	background-color:;
+	color:#fffaf0;
+}
+body {
+    padding-top: 50px;
+	background-color:#00008b;
+}
+#text{
+	font-size:20px;
+}
